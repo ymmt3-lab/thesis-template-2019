@@ -23,8 +23,8 @@
 [学術分野における作文方法について](https://github.com/ymmt3-lab/lab-management/blob/master/how-to-write-a-paper.md)，解説記事を用意しています。これを読んでください。
 
 
-## LaTeXの使い方について
-同じディレクトリ内の``paper.pdf``をご覧ください。
+## LaTeXの使い方（簡易的なガイド）について
+同じディレクトリ内の``how-to-use-latex.pdf``をご覧ください。
 
 
 ## 卒論スケジュール
