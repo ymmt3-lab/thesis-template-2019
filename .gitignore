@@ -241,5 +241,6 @@ TSWLatexianTemp*
 # generated if using elsarticle.cls
 *.spl
 
+paper.pdf
 thesis.tex
 .DS_Store
